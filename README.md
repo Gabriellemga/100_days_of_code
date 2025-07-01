@@ -26,7 +26,7 @@ O Desafio dos 100 Dias de Python foi criado para aprimorar as habilidades de pro
 * [(Day 1)]:Print into the World.<br/>
 * [(Day 2)]:Getting to Know You: A Fun Profile Introduction!<br/>
 * [(Day 3)]:The Wacky Recipe Maker.<br/>
-* [(Day 4)]:Write your own story!<br/>
+* [(Day 4)]:Write color story!<br/>
 * [(Day 5)]:"Which character are you?" Generator.<br/>
 * [(Day 6)]:Make your own login program.<br/>
 * [(Day 7)]:Fake Fan Question Generator.<br/>
